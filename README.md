@@ -1,2 +1,2 @@
-An Event Planning App Which uses Google Event APi 
+An Event Planning App Which uses Google Event API and table_calender
 
